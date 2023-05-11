@@ -7,7 +7,7 @@ I created this project to monitor Telegram chat texts and trigger some actions b
 3. When you run the **monitor.py** file, you will be asked for your phone number and the verification code
 4. The telethon package version tested to work in this project is 1.28.5
 5. The python version is 3.10 (others should work as well)
-6. Chat IDs can be found in many ways. Sometimes if you open a telegram chat in your browser, (https://web.telegram.org) you will see the Chat ID in the URL bar
+6. Chat IDs can be found in many ways. Sometimes if you open a telegram chat in your browser (https://web.telegram.org), you will see the Chat ID in the URL bar
 
 ## Description
 This repository contains a Python code that utilizes the Telegram API to monitor text messages in Telegram groups. 
